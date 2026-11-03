@@ -5,7 +5,7 @@ import os
 dongu_karakterleri = ["|", "/", "-", "\\"]
 
 # --- BAŞLANGIÇ YÜKLEME EFEKTLERİ ---
-print("--- EJSUS AUTISTIC TOOL V1.2 ---")
+print("--- EJSUS AUTISTIC TOOL V1.0 ---")
 print("EjsusTexh sunucusuna bağlanılıyor", end="")
 for i in range(3):
     time.sleep(1.8)
@@ -71,6 +71,16 @@ while True:
             print("38 derecelik açı ile Nuh soyundan.\n")
             input("Devam etmek için Enter'a basın...")
             
+        elif isim == "osmand4l":
+            print("osmand4l adlı kullanıcı deposu gösteriliyor:")
+            time.sleep(2.0)
+            print("Osman Dal")
+            time.sleep(1.2)
+            print("Büyük Astro Fizikçi, OAL Halk ozanı , Galileoyu panelleyen adam")
+            time.sleep(1.7)
+            print("318 derece açı ile Nuh soyundan.\n")
+            input("Devam etmek için Enter'a basın...")
+	
         elif isim == "271":
             print("271 adlı kullanıcı deposu gösteriliyor:")
             time.sleep(2.0)
@@ -81,6 +91,16 @@ while True:
             print("43 derece açı ile Nuh soyundan.\n")
             input("Devam etmek için Enter'a basın...")
             
+        elif isim == "uchar":
+            print("uchar adlı kullanıcı deposu gösteriliyor:")
+            time.sleep(2.0)
+            print("Mustafa Uçar")
+            time.sleep(1.2)
+            print("Freddy Fazbear")
+            time.sleep(1.7)
+            print("NUH SOYUNUN BAŞ DÜŞMANI.\n")
+            input("Devam etmek için Enter'a basın...")
+
         elif isim == "229":
             print("229 adlı kullanıcı deposu gösteriliyor:")
             time.sleep(2.0)
